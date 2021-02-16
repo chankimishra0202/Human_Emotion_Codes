@@ -1,5 +1,5 @@
 <script>
-/*
+
 document.write("<b> HUMAN DATA TO CODE </b><br><br>")
 
 // Corporate Informations (1) 
@@ -406,7 +406,8 @@ let train=
  train.info(100038,41150,"1/1/2021","AC 3Tier","General")
  document.write("<br>")
  
- 
+ // corporate information 6
+
 let TourtoPILGRIMAGE = {
 TicketType  : " Special Entry Darshan",
 Date : " Dec 1st ",
@@ -457,8 +458,8 @@ this.BookingNo, this.NameofthePilgrim,this.OrderNo)
 TourtoPILGRIMAGE.validate( " Special Entry Darshan", " Dec 1st ", "Tuesday","3:30 Am ", 2000,"IS151110080016","Venkatesh ", 010600013554,)
 document.write("<br>")
 
-//corporate information
-*/
+//corporate information 7
+
 const Registration = {
 Name :  " JVT",
 Age :   5,
@@ -520,7 +521,7 @@ if (this.EmailAdress == "info@jvtechnologies.co.in")
       }
  Registration.Detailvalidation("Mr. Venkatesh",5,"Male","info@jvtechnologies.co.in","BEML Main Road")
 
-// corporate information 
+// corporate information 8
    
    function cardnumber()
 {
@@ -535,7 +536,9 @@ if (this.EmailAdress == "info@jvtechnologies.co.in")
         return false;
         }
 }
-//--------------------
+
+// corporate information 9
+
 function appearance(Weight, Height, Eyecolour, Gender, address, phone, Mobile, State, Country){
 	if (Country == "India"){
 		if (State == "Karnataka")
